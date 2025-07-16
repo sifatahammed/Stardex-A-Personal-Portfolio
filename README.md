@@ -38,7 +38,7 @@ Stardex/
 └── package.json
 ```
 
-##✨ Features
+## ✨ Features
 
 - Fully responsive layout
 
@@ -108,7 +108,7 @@ npm run dev
  
 ## 🙋‍♂️ Author
 
- MD Sifat Ahammed Akash
+MD Sifat Ahammed Akash
 
 📫 Email: sifatahammed821@gmail.com
 
@@ -116,7 +116,7 @@ npm run dev
 
 <div align="center">
 
-MIT License © [Lohit Kolluri](LICENSE)
+MIT License © [MD Sifat Ahammed Akash](LICENSE)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
