@@ -100,7 +100,6 @@ npm run dev
   - Smooth Framer Motion animations
   - Intuitive navigation
   - Clean and professional design
-  - Interactive 3D elements using Three.js
 
 - ✉️ Email Integration
   - Contact form using EmailJS
