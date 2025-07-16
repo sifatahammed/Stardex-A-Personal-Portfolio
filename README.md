@@ -4,7 +4,7 @@ Stardex | A sleek, responsive personal portfolio built with React, Tailwind CSS,
 ---
 
 ## 🚀 Live Demo  
-🔗 [https://sifatahammed.github.io/Trail-and-Tale/](https://sifatahammed.github.io/Trail-and-Tale/)
+🔗 [Coming Soon]()
 
 ---
 
