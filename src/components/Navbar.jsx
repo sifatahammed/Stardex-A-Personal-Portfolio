@@ -9,7 +9,7 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false);
 
   const toggleResume = () => {
-    const resumeUrl = '/Resume.pdf';
+    const resumeUrl = '/MD Sifat Ahammed Akash (CV).pdf';
     window.open(resumeUrl);
   };
 
@@ -42,7 +42,7 @@ const Navbar = () => {
           isSecondary ? 'secondary' : 'white'
         } hover:text-white text-[20px] font-medium cursor-pointer`}
       >
-        <button onClick={toggleResume}>Resume</button>
+        <button onClick={toggleResume}>CV</button>
       </li>
     </ul>
   );
