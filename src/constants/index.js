@@ -90,15 +90,15 @@ export const experiences = [
     ],
   },
   {
-    title: "Freelance Web Developer",
-    company_name: "Self-employed",
+    title: "Lead Full-Stack Developer",
+    company_name: "Web Innovators",
     icon: mathwork, // Replace with actual icon if available
     iconBg: "#161329",
-    date: "Feb 2023 – Present",
+    date: "Jul 2024 – Present",
     points: [
-      "Built 10+ responsive, SEO-optimized websites and web apps using HTML, CSS, JavaScript, and React.",
-      "Integrated third-party APIs including Google Maps, Stripe, and Facebook to enhance functionality and user experience.",
-      "Improved average client site traffic by 15% through SEO strategies and performance optimization.",
+      "Team Leadership: Managed a 10-person cross-functional team (developers and designers), running sprint workflows, task allocation, and code review standards.",
+      "Engineering & Delivery: Directed full-stack development using React, Flask, and PostgreSQL, integrating auth systems and payment gateways.",
+      "Client Strategy: Translated stakeholder requirements into technical roadmaps and delivered scalable features on schedule.",
       "Managed the full development lifecycle: planning, designing, building, and deploying scalable web solutions.",
     ],
   },
