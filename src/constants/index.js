@@ -227,19 +227,5 @@ export const projects = [
       "https://github.com/sifatahammed/Tenzies",
     demo: "https://sifatahammed.github.io/Tenzies/",
   },
-  {
-    name: "Stardex | Porfolio",
-    description:
-      "Stardex | A sleek, responsive personal portfolio built with React, Tailwind CSS, and Framer Motion with a focus on front-end technologies and AI-powered projects.",
-    tags: [
-      { name: "HTML", color: "green-text-gradient" },
-      { name: "Tailwind-CSS", color: "pink-text-gradient" },
-      { name: "Javascript", color: "blue-text-gradient" },
-      { name: "React.js", color: "green-text-gradient" }, 
-    ],
-    image: por,
-    source_code_link:
-      "https://github.com/sifatahammed/Stardex-A-Personal-Portfolio/",
-    demo: "",
-  },
+ 
 ];
