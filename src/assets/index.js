@@ -58,7 +58,7 @@ export {
   nodejs,
   reactjs,
   tailwind,typescript, reactrouter, mongodb, expressjs, csharp, tensorflow, scikit, keras,numpy, matplotlib,
-  emotion,
+  emotion, vouge,
   dia, web, blog, land, commerce, van, tenzies,
   logo,
   menu,
