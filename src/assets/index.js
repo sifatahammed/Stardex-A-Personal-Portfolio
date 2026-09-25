@@ -16,6 +16,7 @@ import web from "./projects/web.png";
 import blog from "./projects/blog.png";
 import land from "./projects/land.png";
 import commerce from "./projects/commerce.png";
+import vouge from "./projects/vouge.png";
 import van from "./projects/van.png";
 import tenzies from "./projects/tenzies.png";
 
