@@ -144,7 +144,7 @@ export const projects = [
     source_code_link: "https://github.com/sifatahammed/Web-App-for-Text-Summarization-and-NER",
   },
   {
-    name: "Vogue Nest | E-Commerce",
+    name: "Vogue Nest",
     description:
       "Full-stack e-commerce platform with user storefront, admin dashboard, and backend API. Built using React, TailwindCSS, Node.js, Express, and MongoDB.",
     tags: [
