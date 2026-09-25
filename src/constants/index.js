@@ -12,7 +12,7 @@ import {
   nodejs,
   typescript, reactrouter, mongodb, expressjs, tensorflow, scikit,keras,
   git,
-  emotion,
+  emotion, vogue,
   dia, web, blog, land, commerce, van, tenzies,
   mathwork,
   nwulogo,
