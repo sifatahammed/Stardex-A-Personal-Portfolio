@@ -12,7 +12,7 @@ import {
   nodejs,
   typescript, reactrouter, mongodb, expressjs, tensorflow, scikit,keras,
   git,
-  emotion, vogue,
+  emotion, vouge,
   dia, web, blog, land, commerce, van, tenzies,
   mathwork,
   nwulogo,
@@ -153,7 +153,7 @@ export const projects = [
       { name: "Full-Stack", color: "green-text-gradient" },
       { name: "Machine-Learning", color: "pink-text-gradient" },
       { name: "Javascript", color: "pink-text-gradient" },    ],
-    image: vogue,
+    image: vouge,
     source_code_link: "https://github.com/sifatahammed/Vouge-Nest",
   },
   {
