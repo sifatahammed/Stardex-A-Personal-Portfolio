@@ -91,7 +91,7 @@ export const experiences = [
   },
   {
     title: "Lead Full-Stack Developer",
-    company_name: "Web Innovators",
+    company_name: "WeB Innovators",
     icon: mathwork, // Replace with actual icon if available
     iconBg: "#161329",
     date: "Jul 2024 – Present",
