@@ -144,11 +144,11 @@ export const projects = [
     source_code_link: "https://github.com/sifatahammed/Web-App-for-Text-Summarization-and-NER",
   },
   {
-    name: "Vogue Nest",
+    name: "Vogue Nest | E-Commerce",
     description:
       "Full-stack e-commerce platform with user storefront, admin dashboard, and backend API. Built using React, TailwindCSS, Node.js, Express, and MongoDB.",
     tags: [
-      { name: "E-Commerce ", color: "blue-text-gradient" },
+      { name: "E-Commerce", color: "blue-text-gradient" },
       { name: "MERN", color: "blue-text-gradient" },
       { name: "Full-Stack", color: "green-text-gradient" },
       { name: "Machine-Learning", color: "pink-text-gradient" },
@@ -157,7 +157,7 @@ export const projects = [
     source_code_link: "https://github.com/sifatahammed/Vouge-Nest",
   },
   {
-    name: "Trail & Tale",
+    name: "Trail & Tale | Blog",
     description:
       "A responsive blog website built with React, TypeScript, and Bootstrap. Designed for readability, mobile-friendliness, and easy future enhancement.",
     tags: [
