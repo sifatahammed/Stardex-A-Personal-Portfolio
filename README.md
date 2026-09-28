@@ -3,7 +3,7 @@
 <p align="center" style="margin:0; padding:0;">
   <img
     alt="Stardex Logo"
-    src="public/logo-dk.png"
+    src="public/logo.png"
     width="300"
     style="margin-top:-80px; margin-bottom:0; padding:0;"
   />
@@ -494,7 +494,7 @@ Potential future enhancements include:
 MIT License © MD Sifat Ahammed Akash
 </div>
 <div align="center">
-⭐ If you find Trail-and-Tale useful, consider giving the repository a Star!<br>
+⭐ If you find Stardex useful, consider giving the repository a Star!<br>
 
 <p align="center">
 Built with ❤️ using React, Tailwind CSS & Framer Motion.
