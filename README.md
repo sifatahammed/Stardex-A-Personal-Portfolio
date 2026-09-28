@@ -3,7 +3,7 @@
 <p align="center" style="margin:0; padding:0;">
   <img
     alt="Stardex Logo"
-    src="public/logo.png"
+    src="public/logo-dk.png"
     width="300"
     style="margin-top:-80px; margin-bottom:0; padding:0;"
   />
@@ -128,7 +128,7 @@ Portfolio Visitor
 # 📐 Visual Architecture Diagram
 
 <p align="center">
-  <img src="public/architecture.png" alt="Stardex Application Architecture" width="100%" />
+  <img src="public/diagram1.png" alt="Stardex Application Architecture" width="100%" />
 </p>
 
 The application is organized into several major sections:
