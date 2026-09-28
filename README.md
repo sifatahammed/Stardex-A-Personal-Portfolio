@@ -1,121 +1,126 @@
-# 🌍 Stardex-A-Personal-Portfolio
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
 
-Stardex | A sleek, responsive personal portfolio built with React, Tailwind CSS, and Framer Motion. Showcasing my work as a Full Stack Developer with a focus on front-end technologies and AI-powered projects.
+<p align="center" style="margin:0; padding:0;">
+  <img
+    alt="Stardex Logo"
+    src="public/logo.png"
+    width="300"
+    style="margin-top:-80px; margin-bottom:0; padding:0;"
+  />
+</p>
 
-## 🚀 Live Demo  
-🔗 [https://stardex-sifat.netlify.app/](https://stardex-sifat.netlify.app/)
+<h1 align="center">🌍 Stardex — A Personal Portfolio</h1>
+
+<p align="center">
+  <strong>A modern, responsive personal portfolio built with React, Tailwind CSS, and Framer Motion</strong>
+</p>
+
+<p align="center">
+  A sleek developer portfolio showcasing projects, technical skills, professional experience,
+  education, and an interactive contact experience with modern animations.
+</p>
+
+<p align="center">
+  <a href="https://stardex-sifat.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Stardex-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/sifatahammed/Stardex-A-Personal-Portfolio">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/Styling-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  </a>
+  <a href="https://www.framer.com/motion/">
+    <img src="https://img.shields.io/badge/Animation-Framer_Motion-0055FF?logo=framer&logoColor=white" />
+  </a>
+  <a href="https://vitejs.dev/">
+    <img src="https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white" />
+  </a>
+  <a href="https://www.emailjs.com/">
+    <img src="https://img.shields.io/badge/Email-EmailJS-orange" />
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ About Stardex
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 🎥 Framer Motion
-- 📬 EmailJS (Contact Form Integration)
-- 🔐 dotenv (Environment Variables)
-- 📦 Vite (or Create React App, depending on setup)
+**Stardex** is a modern personal portfolio website designed to present my work,
+skills, experience, education, and professional journey in an engaging and interactive way.
 
-## 📂 Folder Structure
+The portfolio combines a clean developer-focused interface with animated UI elements,
+interactive project cards, visual skill representations, responsive layouts, and a functional
+contact form powered by EmailJS.
 
-```bash
-Stardex/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── constants/
-│   ├── hoc/
-│   ├── pages/
-│   ├── styles/
-│   ├── utils/
-│   ├── App.jsx
-│   └── main.jsx
-├── .gitignore
-├── .env (not committed)
-├── README.md
-└── package.json
-```
+The goal of Stardex is to provide visitors with a quick and visually appealing overview of
+my capabilities as a **Full Stack Developer**, with a particular interest in modern frontend
+technologies and AI-powered applications.
 
-## ✨ Features
+---
 
-- Fully responsive layout
+## 🚀 Live Demo
 
-- Animated sections with Framer Motion
+🌐 **Portfolio:**  
+https://stardex-sifat.netlify.app/
 
-- Typewriter effect intro
+---
 
-- Contact form with real-time email delivery using EmailJS
+## 🎯 Portfolio Highlights
 
-- Organized and scalable file structure
+- 👨‍💻 Full Stack Developer portfolio
+- ⚛️ Component-based React architecture
+- 🎨 Modern Tailwind CSS interface
+- ✨ Smooth Framer Motion animations
+- 📱 Fully responsive design
+- 🧩 Reusable section wrapper components
+- 💼 Interactive project showcase
+- 🛠️ Animated technology/skill showcase
+- 🎓 Education and professional experience timeline
+- 📬 Functional EmailJS contact form
+- ⭐ Animated background/star-field visual
+- 🎭 Interactive 3D-style skill visualization
+- ⚡ Fast Vite development environment
+- 📂 Organized and scalable project structure
 
-- Skills and project showcase with interactive visuals
+---
 
-## 🛠️ Installation
+# 🏗️ Application Architecture
 
-1️⃣ Clone the repository:
+The portfolio follows a component-based React architecture where the main application
+renders individual portfolio sections through reusable components.
 
-```bash
-git clone https://github.com/sifatahammed/Stardex-A-Personal-Portfolio
-```
+### Architecture Overview
 
-2️⃣ Navigate to project directory:
-
-```bash
-cd Stardex-A-Personal-Portfolio
-```
-
-3️⃣ Install dependencies:
-
-```bash
-npm install
-```
-
-4️⃣ Run development server:
-
-```bash
-npm run dev
-```
-
-5️⃣ Open in browser:
-
-- Visit [http://localhost:3000](http://localhost:3000)
-
-## ⚡ Core Features
-
-- 📱 Responsive Design
-
-  - Mobile-first approach
-  - Seamless experience across all devices
-  - Adaptive layouts and components
-
-- 🎯 Dynamic Content
-
-  - Interactive project showcase
-  - Engaging experience section
-  - Animated skill representations
-
-- 🎨 Modern UI/UX
-
-  - Smooth Framer Motion animations
-  - Intuitive navigation
-  - Clean and professional design
-
-- ✉️ Email Integration
-  - Contact form using EmailJS
- 
-## 🙋‍♂️ Author
-
-MD Sifat Ahammed Akash
-
-📫 Email: sifatahammed821@gmail.com
-
-## 📄 License
-
-<div align="center">
-
-MIT License © [MD Sifat Ahammed Akash](LICENSE)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-</div>
+```text
+Portfolio Visitor
+       │
+       ├── Navigates
+       │      │
+       │      ▼
+       │   Navigation
+       │   [Navbar.jsx]
+       │
+       └── Opens Portfolio
+              │
+              ▼
+        React Mount
+        [main.jsx]
+              │
+              ▼
+        Portfolio App
+          [App.jsx]
+              │
+       ┌──────┼───────────────────────┐
+       │      │          │            │
+       ▼      ▼          ▼            ▼
+    Skills  Contact   Profile      Experience
+    & Work  & Visuals & Education    Timeline
