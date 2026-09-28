@@ -5,7 +5,7 @@
     alt="Stardex Logo"
     src="public/logo.png"
     width="400"
-    style="margin-top:-350px; margin-bottom:0; padding:0;"
+    style="margin-top:-80px; margin-bottom:0; padding:0;"
   />
 </p>
 
